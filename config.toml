@@ -8,7 +8,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
 [params]
-    author = "Steve Francia"
+    author = "João Ricardo Tonin"
     badge = "orange"
     quote = "red"
     notice = "Hello, world. This is a notification."
@@ -19,7 +19,7 @@ footnoteReturnLinkContents = "^"
     bio = """
     <p> This is BIO. You can write something here. </p>
     <br />
-    <p>Also all html tags such as <a href="https://github.com/ertuil/erblog">link</a> are a good here.</p>
+    <p>Also all html tags such as <a href="https://github.com/jrtonin/me">link</a> are a good here.</p>
     """
     # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 
