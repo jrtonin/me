@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "Example Site"
+baseURL = "https://jrtonin.github.io/me/"
+title = "Teste"
 theme = "erblog"
 paginate = 3
 languageCode = "en"
